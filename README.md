@@ -1,4 +1,4 @@
-#Harmonics Extraction with a Polynomial Hammerstein Model 
+# Harmonics Extraction with a Polynomial Hammerstein Model 
 
 This program makes possible the extraction of harmonics with a polynomial Hammerstein model (without subharmonics). A example is available in the file test.m. 
 
